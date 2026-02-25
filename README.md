@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://equevu.github.io/Pulsebook/" target="_blank">
+    <img src="https://img.shields.io/badge/Equevu%20Pulse-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
   <a href="https://subhiqudsi.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-subhiqudsi.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
