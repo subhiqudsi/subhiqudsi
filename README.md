@@ -35,7 +35,6 @@
 - **[Equevu](https://equevu.com)** — Engineering Manager leading HR tech solutions for workforce & benefits (Remote, Abu Dhabi)
 - Setting technical roadmap, architecture decisions, and engineering culture from the ground up
 - Daily-driving **[Claude Code](https://claude.ai/code)** as my AI engineering assistant — from architecture discussions to code reviews
-- Peak output: **2021** — a year I apparently never slept
 
 ---
 
