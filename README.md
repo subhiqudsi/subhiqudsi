@@ -13,6 +13,9 @@
   <a href="mailto:subhiqudsi@gmail.com">
     <img src="https://img.shields.io/badge/Email-subhiqudsi%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/subhi-al-qudsi-346639b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Subhi%20Al%20Qudsi-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/subhiqudsi">
     <img src="https://img.shields.io/github/followers/subhiqudsi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0f172a" />
   </a>
