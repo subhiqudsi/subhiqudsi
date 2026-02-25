@@ -77,6 +77,12 @@
   <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 </p>
 
+**Special love**
+<p>
+  <a href="https://bun.sh" target="_blank"><img src="https://img.shields.io/badge/Bun-FBF0DF?style=for-the-badge&logo=bun&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/yes%2C_it's_fast-FBF0DF?style=for-the-badge&logoColor=black" />
+</p>
+
 ---
 
 ### Key Projects
