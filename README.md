@@ -42,39 +42,39 @@
 
 **Backend**
 <p>
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
-  <a href="https://docs.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="40" /></a>
-  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="40" /></a>
-  <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" height="40" /></a>
-  <a href="https://www.django-rest-framework.org" target="_blank"><img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white" /></a>
-  <a href="https://docs.celeryq.dev" target="_blank"><img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://docs.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+  <a href="https://www.django-rest-framework.org" target="_blank"><img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
+  <a href="https://docs.celeryq.dev" target="_blank"><img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /></a>
 </p>
 
 **Databases & Search**
 <p>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" /></a>
-  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="40" /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></a>
-  <a href="https://www.elastic.co" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" height="40" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.elastic.co" target="_blank"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
 </p>
 
 **DevOps & Cloud**
 <p>
-  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" /></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" /></a>
-  <a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" height="40" /></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="40" /></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" height="40" /></a>
-  <a href="https://helm.sh" target="_blank"><img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://kafka.apache.org" target="_blank"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+  <a href="https://helm.sh" target="_blank"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /></a>
 </p>
 
 **Frontend**
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" height="40" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" height="40" /></a>
-  <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" height="40" /></a>
-  <a href="https://angular.dev" target="_blank"><img src="https://skillicons.dev/icons?i=angular" height="40" /></a>
-  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
+  <a href="https://angular.dev" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 </p>
 
 ---
