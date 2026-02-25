@@ -36,6 +36,11 @@
 - Setting technical roadmap, architecture decisions, and engineering culture from the ground up
 - Daily-driving **[Claude Code](https://claude.ai/code)** as my AI engineering assistant — from architecture discussions to code reviews
 
+### Currently Learning
+
+- **Agentic AI system design** — multi-agent orchestration, tool use, and autonomous workflow patterns
+- **Event-driven architecture** — going deeper on event sourcing, CQRS, and distributed messaging at scale
+
 ---
 
 ### Tech Stack
