@@ -92,12 +92,56 @@
 
 ### Key Projects
 
-| Project | Role | Stack | Scale |
-|---|---|---|---|
-| **Tamatem Plus** — Gaming OAuth2 | Led 7 engineers | Django · Angular · K8s · AWS | Centralized auth + Unity SDK for multiple games |
-| **Ezad.ae** — Date Fruit Auction | Led 8 engineers | Django · K8s · AWS | Multi-integration auction platform |
-| **Ahlibank UID** — Digital Banking | Lead + BA | Django · React · React Native | Digital bank account creation flow |
-| **Doroob.sa** — EdTech | Managed lead + 6 engineers | OpenEdX · Microservices | Saudi national learning platform · 10K+ daily users |
+<details>
+<summary><strong><a href="https://tamatem.co" target="_blank">Tamatem Plus</a></strong> &nbsp;·&nbsp; Gaming &nbsp;·&nbsp; Led 7 engineers</summary>
+<br>
+
+Built a centralized OAuth2 authentication provider for multiple mobile games, including a Unity SDK for seamless in-game auth flows. Owned architecture and delivery end-to-end.
+
+**Stack:** Django · DRF · Angular · Kubernetes · Helm · AWS
+**Team:** 7 engineers — backend, frontend, QA
+
+</details>
+
+<details>
+<summary><strong><a href="https://ezad.ae" target="_blank">Ezad.ae</a></strong> &nbsp;·&nbsp; E-commerce &nbsp;·&nbsp; Led 8 engineers</summary>
+<br>
+
+Led the full build of a date fruit auction platform serving buyers and sellers across the UAE, with multiple third-party integrations and a mobile app.
+
+**Stack:** Django · DRF · jQuery · Kubernetes · Helm · AWS
+**Team:** 8 engineers — 3 backend, 2 mobile, 1 frontend, 2 QA
+
+</details>
+
+<details>
+<summary><strong>Ahlibank UID</strong> &nbsp;·&nbsp; Banking &nbsp;·&nbsp; Lead + BA</summary>
+<br>
+
+Led a freelance team delivering a digital bank account creation flow for Ahlibank. Wore two hats — technical lead and business analyst — handling client communication and translating requirements into specs.
+
+**Stack:** Django · DRF · React · React Native · Docker
+
+</details>
+
+<details>
+<summary><strong><a href="https://doroob.sa" target="_blank">Doroob.sa</a></strong> &nbsp;·&nbsp; EdTech &nbsp;·&nbsp; Managed tech lead + 6 engineers</summary>
+<br>
+
+Maintained and scaled Saudi Arabia's national learning platform built on OpenEdX. Managed a tech lead and a team of 6 through feature delivery, legacy modernization, and reliability improvements.
+
+**Stack:** OpenEdX · Python · Microservices
+**Scale:** 10K+ daily users
+
+</details>
+
+<details>
+<summary><strong><a href="https://nafith.sa" target="_blank">Nafith.sa</a></strong> &nbsp;·&nbsp; Consulting &nbsp;·&nbsp; Modernization Advisory</summary>
+<br>
+
+Worked with an engineering team to design a full system modernization roadmap. Introduced structured estimation practices — breaking down work into realistic, detailed execution plans — and coached the team on scoping and technical planning.
+
+</details>
 
 ---
 
