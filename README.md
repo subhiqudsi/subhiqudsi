@@ -40,21 +40,41 @@
 
 ### Tech Stack
 
+**Backend**
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,nestjs,postgres,redis,mongodb,elasticsearch,docker&perline=9" />
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,kafka,aws,gcp,javascript,typescript,vue,angular,react&perline=9" />
-  </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
+  <a href="https://docs.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="40" /></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="40" /></a>
+  <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" height="40" /></a>
+  <a href="https://www.django-rest-framework.org" target="_blank"><img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white" /></a>
+  <a href="https://docs.celeryq.dev" target="_blank"><img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" /></a>
 </p>
 
+**Databases & Search**
 <p>
-  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="40" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" /></a>
+  <a href="https://www.elastic.co" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" height="40" /></a>
+</p>
+
+**DevOps & Cloud**
+<p>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" /></a>
+  <a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" height="40" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="40" /></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" height="40" /></a>
+  <a href="https://helm.sh" target="_blank"><img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" /></a>
+</p>
+
+**Frontend**
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" height="40" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" height="40" /></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" height="40" /></a>
+  <a href="https://angular.dev" target="_blank"><img src="https://skillicons.dev/icons?i=angular" height="40" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" /></a>
 </p>
 
 ---
