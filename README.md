@@ -93,5 +93,5 @@
 ---
 
 <p align="center">
-  <sub>8+ years of engineering. Most commits live in private repos.</sub>
+  <sub>8+ years of engineering · most commits live in private repos · my git log doesn't have weekends</sub>
 </p>
