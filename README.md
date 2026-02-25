@@ -2,13 +2,16 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+Engineer+%E2%80%A2+8+Years+Engineering;3+Years+Engineering+Lead;Python+%2F+Django+%2F+PostgreSQL;Building+Fintech+Infrastructure+%40+Equevu" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=660&lines=Engineering+Manager+%26+Lead+Software+Engineer;8%2B+Years+%C2%B7+Teams+up+to+10+Engineers;Python+%C2%B7+Django+%C2%B7+K8s+%C2%B7+Kafka+%C2%B7+AWS;Banking+%C2%B7+Gaming+%C2%B7+EdTech+%C2%B7+HR+Tech" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://subhiqudsi.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-subhiqudsi.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:subhiqudsi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-subhiqudsi%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/subhiqudsi">
     <img src="https://img.shields.io/github/followers/subhiqudsi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0f172a" />
@@ -19,18 +22,19 @@
 
 ### About Me
 
-- **8 years** in software engineering — **3 as a lead**, owning systems and growing engineers
-- Building backend infrastructure at **Equevu** — a fintech platform for payroll & benefits
-- Deep in the stack: API design, business logic, async pipelines, multi-tenant data, infrastructure
-- Peak output: **2021** — a year I apparently never slept
+- **Engineering Manager & Lead Software Engineer** — 8+ years building and scaling production systems
+- Led cross-functional teams of **up to 10 engineers** across banking, gaming, e-commerce, ed-tech, and HR tech
+- Architected monolith → microservices transitions at scale using **Kubernetes, Kafka, and Elasticsearch**
+- Delivered systems serving **100K+ users** · **99.9% uptime** · **60% faster deployments**
+- Hands-on leader: I write code, review PRs, run sprints, and own stakeholder communication
 
 ---
 
-### What I'm Focused On
+### Currently Building
 
-- Scaling payroll systems to handle more volume without proportional complexity
-- Async task reliability with Celery + Django in high-stakes financial contexts
-- Mentoring engineers from mid to strong senior contributors
+- **[Equevu](https://equevu.com)** — Engineering Manager leading HR tech solutions for workforce & benefits (Remote, Abu Dhabi)
+- Setting technical roadmap, architecture decisions, and engineering culture from the ground up
+- Peak output: **2021** — a year I apparently never slept
 
 ---
 
@@ -38,14 +42,31 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,mongodb,docker,aws,javascript,vue&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,nestjs,postgres,redis,mongodb,elasticsearch,docker&perline=9" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,kafka,aws,gcp,javascript,typescript,vue,angular,react&perline=9" />
   </a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
+
+---
+
+### Key Projects
+
+| Project | Role | Stack | Scale |
+|---|---|---|---|
+| **Tamatem Plus** — Gaming OAuth2 | Led 7 engineers | Django · Angular · K8s · AWS | Centralized auth + Unity SDK for multiple games |
+| **Ezad.ae** — Date Fruit Auction | Led 8 engineers | Django · K8s · AWS | Multi-integration auction platform |
+| **Ahlibank UID** — Digital Banking | Lead + BA | Django · React · React Native | Digital bank account creation flow |
+| **Doroob.sa** — EdTech | Managed lead + 6 engineers | OpenEdX · Microservices | Saudi national learning platform · 10K+ daily users |
 
 ---
 
@@ -80,5 +101,5 @@
 ---
 
 <p align="center">
-  <sub>8 years of engineering. Most commits live in private repos.</sub>
+  <sub>8+ years of engineering. Most commits live in private repos.</sub>
 </p>
