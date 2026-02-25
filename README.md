@@ -92,97 +92,80 @@
 
 ### Key Projects
 
-<details>
-<summary>
-  <strong><a href="https://tamatem.co" target="_blank">Tamatem Plus</a></strong> &nbsp;—&nbsp; Centralized OAuth2 for mobile games &nbsp;
-  <img src="https://img.shields.io/badge/Gaming-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Led%207%20engineers-1e293b?style=flat-square" />
-</summary>
-<br>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Built a centralized OAuth2 authentication provider for a suite of mobile games, with a Unity SDK for seamless in-game auth flows. Owned architecture and delivery end-to-end across backend and frontend.
+**[Tamatem Plus](https://tamatem.co)** &nbsp;
+<img src="https://img.shields.io/badge/Gaming-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Led%207%20engineers-1e293b?style=flat-square" />
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
-<br>
-</details>
+Centralized OAuth2 for a suite of mobile games, with a Unity SDK for in-game auth. Owned architecture and delivery end-to-end.
 
-<details>
-<summary>
-  <strong><a href="https://ezad.ae" target="_blank">Ezad.ae</a></strong> &nbsp;—&nbsp; Date fruit auction platform &nbsp;
-  <img src="https://img.shields.io/badge/E--commerce-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Led%208%20engineers-1e293b?style=flat-square" />
-</summary>
-<br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 
-Delivered a full auction platform for date fruit trading across the UAE — multiple third-party integrations, mobile app, and a cross-functional team of 8 (backend, mobile, frontend, QA).
+</td>
+<td valign="top" width="50%">
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
-<br>
-</details>
+**[Ezad.ae](https://ezad.ae)** &nbsp;
+<img src="https://img.shields.io/badge/E--commerce-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Led%208%20engineers-1e293b?style=flat-square" />
 
-<details>
-<summary>
-  <strong>Ahlibank UID</strong> &nbsp;—&nbsp; Digital bank account creation &nbsp;
-  <img src="https://img.shields.io/badge/Banking-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lead%20%2B%20BA-1e293b?style=flat-square" />
-</summary>
-<br>
+Date fruit auction platform for the UAE — multiple integrations, mobile app, cross-functional team of 8 (backend, mobile, frontend, QA).
 
-Led a freelance team building a digital account creation flow for Ahlibank. Wore two hats — technical lead and business analyst — owning client communication, requirements translation, and end-to-end delivery.
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-<br>
-</details>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-<details>
-<summary>
-  <strong><a href="https://doroob.sa" target="_blank">Doroob.sa</a></strong> &nbsp;—&nbsp; Saudi national learning platform &nbsp;
-  <img src="https://img.shields.io/badge/EdTech-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/10K%2B%20daily%20users-1e293b?style=flat-square" />
-</summary>
-<br>
+**Ahlibank UID** &nbsp;
+<img src="https://img.shields.io/badge/Banking-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Lead%20%2B%20BA-1e293b?style=flat-square" />
 
-Managed a tech lead and team of 6 maintaining and scaling Saudi Arabia's national learning platform on OpenEdX. Delivered feature work, legacy modernization, and reliability improvements at scale.
+Digital bank account creation flow. Led the freelance team while also serving as BA — owning client communication and requirements end-to-end.
 
-<p>
-  <img src="https://img.shields.io/badge/OpenEdX-003b5c?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-1e293b?style=flat-square" />
-</p>
-<br>
-</details>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-<details>
-<summary>
-  <strong><a href="https://nafith.sa" target="_blank">Nafith.sa</a></strong> &nbsp;—&nbsp; System modernization advisory &nbsp;
-  <img src="https://img.shields.io/badge/Consulting-0f172a?style=flat-square" />
-</summary>
-<br>
+</td>
+<td valign="top" width="50%">
 
-Partnered with an engineering team to design a full modernization roadmap. Introduced structured estimation practices — breaking complex work into realistic, detailed execution plans — and coached the team on technical planning and scoping.
+**[Doroob.sa](https://doroob.sa)** &nbsp;
+<img src="https://img.shields.io/badge/EdTech-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/10K%2B%20daily%20users-1e293b?style=flat-square" />
 
-<br>
-</details>
+Saudi Arabia's national learning platform on OpenEdX. Managed a tech lead and team of 6 through feature delivery and legacy modernization.
+
+<img src="https://img.shields.io/badge/OpenEdX-003b5c?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-1e293b?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+**[Nafith.sa](https://nafith.sa)** &nbsp;
+<img src="https://img.shields.io/badge/Consulting-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Modernization%20Advisory-1e293b?style=flat-square" />
+
+Partnered with an engineering team to design a full system modernization roadmap. Introduced structured estimation practices — breaking complex work into realistic, detailed execution plans — and coached the team on technical planning and scoping.
+
+</td>
+</tr>
+</table>
 
 ---
 
