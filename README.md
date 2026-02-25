@@ -101,20 +101,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhiqudsi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhiqudsi&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=subhiqudsi&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhiqudsi/subhiqudsi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhiqudsi/subhiqudsi/output/github-snake.svg" />
