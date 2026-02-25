@@ -93,54 +93,95 @@
 ### Key Projects
 
 <details>
-<summary><strong><a href="https://tamatem.co" target="_blank">Tamatem Plus</a></strong> &nbsp;·&nbsp; Gaming &nbsp;·&nbsp; Led 7 engineers</summary>
+<summary>
+  <strong><a href="https://tamatem.co" target="_blank">Tamatem Plus</a></strong> &nbsp;—&nbsp; Centralized OAuth2 for mobile games &nbsp;
+  <img src="https://img.shields.io/badge/Gaming-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Led%207%20engineers-1e293b?style=flat-square" />
+</summary>
 <br>
 
-Built a centralized OAuth2 authentication provider for multiple mobile games, including a Unity SDK for seamless in-game auth flows. Owned architecture and delivery end-to-end.
+Built a centralized OAuth2 authentication provider for a suite of mobile games, with a Unity SDK for seamless in-game auth flows. Owned architecture and delivery end-to-end across backend and frontend.
 
-**Stack:** Django · DRF · Angular · Kubernetes · Helm · AWS
-**Team:** 7 engineers — backend, frontend, QA
-
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+<br>
 </details>
 
 <details>
-<summary><strong><a href="https://ezad.ae" target="_blank">Ezad.ae</a></strong> &nbsp;·&nbsp; E-commerce &nbsp;·&nbsp; Led 8 engineers</summary>
+<summary>
+  <strong><a href="https://ezad.ae" target="_blank">Ezad.ae</a></strong> &nbsp;—&nbsp; Date fruit auction platform &nbsp;
+  <img src="https://img.shields.io/badge/E--commerce-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Led%208%20engineers-1e293b?style=flat-square" />
+</summary>
 <br>
 
-Led the full build of a date fruit auction platform serving buyers and sellers across the UAE, with multiple third-party integrations and a mobile app.
+Delivered a full auction platform for date fruit trading across the UAE — multiple third-party integrations, mobile app, and a cross-functional team of 8 (backend, mobile, frontend, QA).
 
-**Stack:** Django · DRF · jQuery · Kubernetes · Helm · AWS
-**Team:** 8 engineers — 3 backend, 2 mobile, 1 frontend, 2 QA
-
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+<br>
 </details>
 
 <details>
-<summary><strong>Ahlibank UID</strong> &nbsp;·&nbsp; Banking &nbsp;·&nbsp; Lead + BA</summary>
+<summary>
+  <strong>Ahlibank UID</strong> &nbsp;—&nbsp; Digital bank account creation &nbsp;
+  <img src="https://img.shields.io/badge/Banking-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lead%20%2B%20BA-1e293b?style=flat-square" />
+</summary>
 <br>
 
-Led a freelance team delivering a digital bank account creation flow for Ahlibank. Wore two hats — technical lead and business analyst — handling client communication and translating requirements into specs.
+Led a freelance team building a digital account creation flow for Ahlibank. Wore two hats — technical lead and business analyst — owning client communication, requirements translation, and end-to-end delivery.
 
-**Stack:** Django · DRF · React · React Native · Docker
-
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+<br>
 </details>
 
 <details>
-<summary><strong><a href="https://doroob.sa" target="_blank">Doroob.sa</a></strong> &nbsp;·&nbsp; EdTech &nbsp;·&nbsp; Managed tech lead + 6 engineers</summary>
+<summary>
+  <strong><a href="https://doroob.sa" target="_blank">Doroob.sa</a></strong> &nbsp;—&nbsp; Saudi national learning platform &nbsp;
+  <img src="https://img.shields.io/badge/EdTech-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/10K%2B%20daily%20users-1e293b?style=flat-square" />
+</summary>
 <br>
 
-Maintained and scaled Saudi Arabia's national learning platform built on OpenEdX. Managed a tech lead and a team of 6 through feature delivery, legacy modernization, and reliability improvements.
+Managed a tech lead and team of 6 maintaining and scaling Saudi Arabia's national learning platform on OpenEdX. Delivered feature work, legacy modernization, and reliability improvements at scale.
 
-**Stack:** OpenEdX · Python · Microservices
-**Scale:** 10K+ daily users
-
+<p>
+  <img src="https://img.shields.io/badge/OpenEdX-003b5c?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-1e293b?style=flat-square" />
+</p>
+<br>
 </details>
 
 <details>
-<summary><strong><a href="https://nafith.sa" target="_blank">Nafith.sa</a></strong> &nbsp;·&nbsp; Consulting &nbsp;·&nbsp; Modernization Advisory</summary>
+<summary>
+  <strong><a href="https://nafith.sa" target="_blank">Nafith.sa</a></strong> &nbsp;—&nbsp; System modernization advisory &nbsp;
+  <img src="https://img.shields.io/badge/Consulting-0f172a?style=flat-square" />
+</summary>
 <br>
 
-Worked with an engineering team to design a full system modernization roadmap. Introduced structured estimation practices — breaking down work into realistic, detailed execution plans — and coached the team on scoping and technical planning.
+Partnered with an engineering team to design a full modernization roadmap. Introduced structured estimation practices — breaking complex work into realistic, detailed execution plans — and coached the team on technical planning and scoping.
 
+<br>
 </details>
 
 ---
